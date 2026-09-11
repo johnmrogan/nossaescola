@@ -20,7 +20,7 @@ align-items: center;
 justify-content: center;
 }
 .cabecalho-imagem{
-width: 10%;
+width: 20%;
 display: flex;
 justify-content: flex-start;
 align-items: center;
@@ -40,9 +40,9 @@ padding-right: 30px;
 .banner1{
 display: flex;
 justify-content: center;
+width: 20%;
 }
 .estudante_titulo{
-padding: 50px;
 text-align: center;
 
 }
